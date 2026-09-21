@@ -1,0 +1,32 @@
+{
+  "name": "sealedrose",
+  "version": "1.0.0",
+  "description": "Official client SDK for Sealed Rose AI Deepfake & Synthetic Media Detection.",
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "deepfake-detection",
+    "ai-detector",
+    "image-forensics",
+    "video-forensics",
+    "synthetic-media",
+    "face-swap-detection",
+    "sealedrose"
+  ],
+  "author": "Derek Gallardo <derek@sealedrose.com>",
+  "homepage": "https://sealedrose.com/verify-video",
+  "bugs": {
+    "url": "https://sealedrose.com/contact"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekgallardo01/sealedrose-sdk.git"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sealedrose"
+version = "1.0.0"
+authors = [
+  { name="Derek Gallardo", email="derek@sealedrose.com" },
+]
+description = "Official Python client SDK for Sealed Rose AI Deepfake & Synthetic Media Detection."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Security",
+    "Topic :: Multimedia :: Video",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "requests>=2.25.0",
+]
+
+[project.urls]
+"Homepage" = "https://sealedrose.com/verify-video"
+"Documentation" = "https://sealedrose.com/verify-video"
+"Bug Tracker" = "https://sealedrose.com/contact"
+"Source" = "https://github.com/derekgallardo01/sealedrose-sdk"
