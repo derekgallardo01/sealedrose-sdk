@@ -4,6 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/sealedrose.svg)](https://www.npmjs.com/package/sealedrose)
 [![PyPI version](https://img.shields.io/pypi/v/sealedrose.svg)](https://pypi.org/project/sealedrose/)
 [![Docker Pulls](https://img.shields.io/badge/docker-derekgallardo01%2Fsealed--rose--detector-blue.svg)](https://hub.docker.com/r/derekgallardo01/sealed-rose-detector)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14757/badge)](https://www.bestpractices.dev/projects/14757)
 
 Official open-source developer SDKs and Digital Forensics & Incident Response (DFIR) tools for [Sealed Rose](https://sealedrose.com/verify-video) — AI Deepfake Detection, Synthetic Media Analysis, and Frame-Level Forensics.
 
