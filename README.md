@@ -29,7 +29,10 @@ DFIR teams can instantly triage suspicious media files without an account or API
 |---|---|---|
 | **JavaScript / TypeScript** | `npm install sealedrose` | [npm Package](https://www.npmjs.com/package/sealedrose) · [SDK README](./javascript/README.md) |
 | **Python** | `pip install sealedrose` | [PyPI Package](https://pypi.org/project/sealedrose/) · [Python README](./python/README.md) |
+| **PHP** | `composer require sealedrose/sealedrose-sdk` | [Packagist Package](https://packagist.org/packages/sealedrose/sealedrose-sdk) · [PHP README](./php/README.md) |
+| **Ruby** | `gem install sealedrose` | [RubyGems Package](https://rubygems.org/gems/sealedrose) · [Ruby README](./ruby/README.md) |
 | **Docker** | `docker pull derekgallardo01/sealed-rose-detector` | [Docker Hub](https://hub.docker.com/r/derekgallardo01/sealed-rose-detector) · [Docker README](./docker/README.md) |
+| **VS Code Extension** | `Sealed Rose Media Detector` | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=derekgallardo01.sealed-rose-detector) |
 
 ---
 

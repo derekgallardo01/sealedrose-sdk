@@ -1,0 +1,40 @@
+{
+  "name": "sealedrose/sealedrose-sdk",
+  "description": "Official PHP SDK for Sealed Rose AI Deepfake & Synthetic Media Detection.",
+  "type": "library",
+  "keywords": [
+    "deepfake-detection",
+    "ai-detection",
+    "media-forensics",
+    "synthetic-media",
+    "video-verification",
+    "image-forensics",
+    "sealed-rose"
+  ],
+  "homepage": "https://sealedrose.com/verify-video",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Derek Gallardo",
+      "email": "derek@sealedrose.com",
+      "homepage": "https://sealedrose.com/verify-video",
+      "role": "Lead Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/derekgallardo01/sealedrose-sdk/issues",
+    "source": "https://github.com/derekgallardo01/sealedrose-sdk",
+    "docs": "https://sealedrose.com/verify-video"
+  },
+  "require": {
+    "php": ">=7.4.0",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "SealedRose\\": "php/src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
